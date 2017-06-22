@@ -1,2 +1,3 @@
-# 6-21processing
-homework
+# 6月21日processing作业
+##画一个图形
+###用基本的函数，椭圆，填充等画一个简单图形
